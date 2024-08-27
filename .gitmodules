@@ -1,0 +1,3 @@
+[submodule "apenas_fans"]
+	path = apenas_fans
+	url = https://github.com/LuisFelipeRochaMartins/front-dev-web-app.git
